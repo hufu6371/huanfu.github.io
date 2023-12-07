@@ -35,6 +35,12 @@ layout: default
             </div>
             {%- endif %}
           </div>
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ content }}
+          </div>
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
@@ -48,11 +54,6 @@ layout: default
 
             </div>
           {%- endif %}
-          {%- endif %}
-
-          <div class="clearfix">
-            {{ content }}
-          </div>
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
@@ -72,19 +73,6 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
-          {%- endif %}
         </article>
 
 </div>

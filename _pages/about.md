@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email hufu6371@uni.sydney.edu.au
+subtitle: <a href="https://scholar.google.com/citations?hl=en&user=EYTzVMwAAAAJ">Google Scholar</a> &nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope"></i> hufu6371@uni.sydney.edu.au 
 
 profile:
   align: right
@@ -16,12 +16,12 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+#social: true  # includes social icons at the bottom of the page
 ---
 
-hello world.
-Test. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I currently serve as a Principal Researcher at Futurise, an AGI startup. Previously, I was the Staff Algorithm Expert (P8) at Taobao, Alibaba, where I led a team primarily focused on NeRF. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I got my Ph.D. from The University of Sydney (USYD) in 2019 under the guidance of [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), with co-supervision from [Prof. Chaohui Wang](https://igm.univ-mlv.fr/~cwang/index.php) and [Prof. Mingming Gong](https://mingming-gong.github.io/). Prior to that, I completed my bachelor's degree at the University of Science and Technology of China (USTC) in 2014. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Right now, I'm into researching 3D reconstruction/generation, NeRF, and image generation.
+
