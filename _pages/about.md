@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: hufu6371@uni.sydney.edu.au
 
 profile:
   align: right
