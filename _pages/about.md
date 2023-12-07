@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: &#x1F4E7: hufu6371@uni.sydney.edu.au
+subtitle: Mail: hufu6371@uni.sydney.edu.au
 
 profile:
   align: right
