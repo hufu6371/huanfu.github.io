@@ -14,9 +14,9 @@ profile:
     #<p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-#social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I currently serve as a Principal Researcher at Futurise, an AGI startup. Previously, I was the Staff Algorithm Expert (P8) at Taobao, Alibaba, where I led a team primarily focused on NeRF. 
