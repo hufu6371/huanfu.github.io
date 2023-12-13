@@ -6,7 +6,7 @@ subtitle: <a href="https://scholar.google.com/citations?hl=en&user=EYTzVMwAAAAJ"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Huan_Fu.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
